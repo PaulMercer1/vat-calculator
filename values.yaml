@@ -1,0 +1,2 @@
+image: paulmercer/vatcalc:<+pipeline.sequenceId>
+replicas: 1
